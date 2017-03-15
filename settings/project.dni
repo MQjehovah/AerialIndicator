@@ -1,0 +1,83 @@
+[DebugChecksum]
+Checksum=-1157837682
+[State Storage]
+Control Register=65494
+[Sequencer]
+Control Register=65494
+NextState0=65494
+NextState1=65494
+[Action Register]
+Break=1
+State Storage=1
+[DisAssemblyWindow]
+NumStates=_ 2
+State 1=_ 1
+State 2=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "Memory:0xEF36" 0 0 0 0 "" 0 ""
+Count=1
+[FET]
+Clock mode=38
+Extended Clock mode=-1
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Aliases]
+A0=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160407_2210\f2132SPI.c" ""
+A1=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160408_1554\main.c" ""
+A2=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160408_1554\nRF905.c" ""
+A3=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160408_1652\main.c" ""
+A4=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160411_0938\main.c" ""
+A5=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160411_0938\nRF905.c" ""
+A6=_ "E:\项目\架空故障指示器\IAR\架空故障指示器_20160426_1458\架空故障指示器\main.c" ""
+Count=7
+SuppressDialog=0
