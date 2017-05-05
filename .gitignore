@@ -46,6 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-#IAR
+
+# Project 
+backup/
+local/
+
+# IAR
 Debug/
 Release/
